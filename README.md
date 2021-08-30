@@ -1,7 +1,7 @@
 ### Olá, eu sou a Virgínia Alcântara! 🙋🏻‍♀️
 
 - 🌱 Estudando Front-end e Back-end na Trybe;
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 - ⚡ Fun fact: catlover 😻
 
  <div>
