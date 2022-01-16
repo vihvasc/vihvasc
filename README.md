@@ -3,11 +3,6 @@
 - 🌱 Estudando Front-end e Back-end na Trybe;
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: catlover 😻
-
- <div>
-  <a href="https://github.com/vihvasc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihvasc&layout=compact&langs_count=7&theme=radical"/>
-</div>
   
   <div> 
   <a href="https://instagram.com/vihvasc" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
