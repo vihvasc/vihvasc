@@ -1,6 +1,6 @@
 ### Olá, eu sou a Virgínia Alcântara! 🙋🏻‍♀️
 
-- 💻 Desenvolvedora Front-End e Back-end em andamento pela [@Trybe](https://www.betrybe.com/)
+- 💻 Desenvolvedora Web FullStack pela [@Trybe](https://www.betrybe.com/)
 - 💜 Pronomes: ela/dela
 - 🔎 Fun fact: catlover 😻
 
