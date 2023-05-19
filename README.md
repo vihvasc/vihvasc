@@ -1,5 +1,6 @@
 ### Olá, eu sou a Virgínia Alcântara! 🙋🏻‍♀️
 
+- Software Developer | Back-end | Golang pelo [@Mercado Livre](https://www.mercadolivre.com.br/)
 - 💻 Desenvolvedora Web FullStack pela [@Trybe](https://www.betrybe.com/)
 - 💜 Pronomes: ela/dela
 - 🔎 Fun fact: catlover 😻
