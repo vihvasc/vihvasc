@@ -3,7 +3,6 @@
 - Software Developer | Back-end | Golang pelo [@Mercado Livre](https://www.mercadolivre.com.br/)
 - 💻 Desenvolvedora Web FullStack pela [@Trybe](https://www.betrybe.com/)
 - 💜 Pronomes: ela/dela
-- 🔎 Fun fact: catlover 😻
 
  <div>
   <a href="https://github.com/vihvasc">
